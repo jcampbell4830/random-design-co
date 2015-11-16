@@ -120,6 +120,7 @@ textarea {
     background-position: auto;
     position: relative;
     top: -5px;
+    clear: both;
 }
 .main-header img {
     width: 100%;
